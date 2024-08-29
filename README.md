@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 📫 How to reach me ...email me
 ia1851415@gmail.com   
-- 😄 Pronouns: ... Ain, Noor
+- 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... Never studied Computer Science before 😁
 
 <!---
